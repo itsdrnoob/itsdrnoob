@@ -20,8 +20,8 @@
 <br>
 
 # ✨ Get in touch with me 📱
-<a href="https://in.linkedin.com/in/AbhijithPrasanth"> <img src=""> </a>
-<a href="mailto:itsdrnoob@gmail.com"> <img src=""> </a>
+<a href="https://in.linkedin.com/in/AbhijithPrasanth"> <img src="https://github.com/itsdrnoob/itsdrnoob/blob/master/assets/linkedin.png?raw=true"> </a>
+<a href="mailto:itsdrnoob@gmail.com"> <img src="https://github.com/itsdrnoob/itsdrnoob/blob/master/assets/mail.png?raw=true"> </a>
 
 
 <br>
