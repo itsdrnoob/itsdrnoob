@@ -10,7 +10,11 @@
 #### - Hello there, my name is Abhijith
 #### - I'm currently pursuing Bachelors Degree in Commerce with Computer Applications
 #### - I'm interested in computers and programming and I've been learning and working on android development since the past few years
-#### - I'm currently residing in Kerala, India
+
+<br>
+
+# ✨ What I'm doing currently 🥴
+#### Hanging out with Python 🐍
 
 <br>
 
